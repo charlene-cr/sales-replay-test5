@@ -1,0 +1,133 @@
+id: call-fixture-001
+account: Northstar Health
+owner: Maya
+outcome: follow-up
+duration: 34
+tags: healthcare, discovery, security
+
+Rep: What prompted the team to revisit review automation this quarter?
+Buyer: The engineering leads are spending too much time on repeated review patterns.
+Rep: If we reduce that review load, where would you want the time reinvested?
+Buyer: Faster onboarding and fewer late-cycle security surprises.
+Rep: Let's schedule a technical review with the platform team next Tuesday.
+
+Transcript annotation: keep buyer context visible for reviewer calibration. 001
+Transcript annotation: keep buyer context visible for reviewer calibration. 002
+Transcript annotation: keep buyer context visible for reviewer calibration. 003
+Transcript annotation: keep buyer context visible for reviewer calibration. 004
+Transcript annotation: keep buyer context visible for reviewer calibration. 005
+Transcript annotation: keep buyer context visible for reviewer calibration. 006
+Transcript annotation: keep buyer context visible for reviewer calibration. 007
+Transcript annotation: keep buyer context visible for reviewer calibration. 008
+Transcript annotation: keep buyer context visible for reviewer calibration. 009
+Transcript annotation: keep buyer context visible for reviewer calibration. 010
+Transcript annotation: keep buyer context visible for reviewer calibration. 011
+Transcript annotation: keep buyer context visible for reviewer calibration. 012
+Transcript annotation: keep buyer context visible for reviewer calibration. 013
+Transcript annotation: keep buyer context visible for reviewer calibration. 014
+Transcript annotation: keep buyer context visible for reviewer calibration. 015
+Transcript annotation: keep buyer context visible for reviewer calibration. 016
+Transcript annotation: keep buyer context visible for reviewer calibration. 017
+Transcript annotation: keep buyer context visible for reviewer calibration. 018
+Transcript annotation: keep buyer context visible for reviewer calibration. 019
+Transcript annotation: keep buyer context visible for reviewer calibration. 020
+Transcript annotation: keep buyer context visible for reviewer calibration. 021
+Transcript annotation: keep buyer context visible for reviewer calibration. 022
+Transcript annotation: keep buyer context visible for reviewer calibration. 023
+Transcript annotation: keep buyer context visible for reviewer calibration. 024
+Transcript annotation: keep buyer context visible for reviewer calibration. 025
+Transcript annotation: keep buyer context visible for reviewer calibration. 026
+Transcript annotation: keep buyer context visible for reviewer calibration. 027
+Transcript annotation: keep buyer context visible for reviewer calibration. 028
+Transcript annotation: keep buyer context visible for reviewer calibration. 029
+Transcript annotation: keep buyer context visible for reviewer calibration. 030
+Transcript annotation: keep buyer context visible for reviewer calibration. 031
+Transcript annotation: keep buyer context visible for reviewer calibration. 032
+Transcript annotation: keep buyer context visible for reviewer calibration. 033
+Transcript annotation: keep buyer context visible for reviewer calibration. 034
+Transcript annotation: keep buyer context visible for reviewer calibration. 035
+Transcript annotation: keep buyer context visible for reviewer calibration. 036
+Transcript annotation: keep buyer context visible for reviewer calibration. 037
+Transcript annotation: keep buyer context visible for reviewer calibration. 038
+Transcript annotation: keep buyer context visible for reviewer calibration. 039
+Transcript annotation: keep buyer context visible for reviewer calibration. 040
+Transcript annotation: keep buyer context visible for reviewer calibration. 041
+Transcript annotation: keep buyer context visible for reviewer calibration. 042
+Transcript annotation: keep buyer context visible for reviewer calibration. 043
+Transcript annotation: keep buyer context visible for reviewer calibration. 044
+Transcript annotation: keep buyer context visible for reviewer calibration. 045
+Transcript annotation: keep buyer context visible for reviewer calibration. 046
+Transcript annotation: keep buyer context visible for reviewer calibration. 047
+Transcript annotation: keep buyer context visible for reviewer calibration. 048
+Transcript annotation: keep buyer context visible for reviewer calibration. 049
+Transcript annotation: keep buyer context visible for reviewer calibration. 050
+Transcript annotation: keep buyer context visible for reviewer calibration. 051
+Transcript annotation: keep buyer context visible for reviewer calibration. 052
+Transcript annotation: keep buyer context visible for reviewer calibration. 053
+Transcript annotation: keep buyer context visible for reviewer calibration. 054
+Transcript annotation: keep buyer context visible for reviewer calibration. 055
+Transcript annotation: keep buyer context visible for reviewer calibration. 056
+Transcript annotation: keep buyer context visible for reviewer calibration. 057
+Transcript annotation: keep buyer context visible for reviewer calibration. 058
+Transcript annotation: keep buyer context visible for reviewer calibration. 059
+Transcript annotation: keep buyer context visible for reviewer calibration. 060
+Transcript annotation: keep buyer context visible for reviewer calibration. 061
+Transcript annotation: keep buyer context visible for reviewer calibration. 062
+Transcript annotation: keep buyer context visible for reviewer calibration. 063
+Transcript annotation: keep buyer context visible for reviewer calibration. 064
+Transcript annotation: keep buyer context visible for reviewer calibration. 065
+Transcript annotation: keep buyer context visible for reviewer calibration. 066
+Transcript annotation: keep buyer context visible for reviewer calibration. 067
+Transcript annotation: keep buyer context visible for reviewer calibration. 068
+Transcript annotation: keep buyer context visible for reviewer calibration. 069
+Transcript annotation: keep buyer context visible for reviewer calibration. 070
+Transcript annotation: keep buyer context visible for reviewer calibration. 071
+Transcript annotation: keep buyer context visible for reviewer calibration. 072
+Transcript annotation: keep buyer context visible for reviewer calibration. 073
+Transcript annotation: keep buyer context visible for reviewer calibration. 074
+Transcript annotation: keep buyer context visible for reviewer calibration. 075
+Transcript annotation: keep buyer context visible for reviewer calibration. 076
+Transcript annotation: keep buyer context visible for reviewer calibration. 077
+Transcript annotation: keep buyer context visible for reviewer calibration. 078
+Transcript annotation: keep buyer context visible for reviewer calibration. 079
+Transcript annotation: keep buyer context visible for reviewer calibration. 080
+Transcript annotation: keep buyer context visible for reviewer calibration. 081
+Transcript annotation: keep buyer context visible for reviewer calibration. 082
+Transcript annotation: keep buyer context visible for reviewer calibration. 083
+Transcript annotation: keep buyer context visible for reviewer calibration. 084
+Transcript annotation: keep buyer context visible for reviewer calibration. 085
+Transcript annotation: keep buyer context visible for reviewer calibration. 086
+Transcript annotation: keep buyer context visible for reviewer calibration. 087
+Transcript annotation: keep buyer context visible for reviewer calibration. 088
+Transcript annotation: keep buyer context visible for reviewer calibration. 089
+Transcript annotation: keep buyer context visible for reviewer calibration. 090
+Transcript annotation: keep buyer context visible for reviewer calibration. 091
+Transcript annotation: keep buyer context visible for reviewer calibration. 092
+Transcript annotation: keep buyer context visible for reviewer calibration. 093
+Transcript annotation: keep buyer context visible for reviewer calibration. 094
+Transcript annotation: keep buyer context visible for reviewer calibration. 095
+Transcript annotation: keep buyer context visible for reviewer calibration. 096
+Transcript annotation: keep buyer context visible for reviewer calibration. 097
+Transcript annotation: keep buyer context visible for reviewer calibration. 098
+Transcript annotation: keep buyer context visible for reviewer calibration. 099
+Transcript annotation: keep buyer context visible for reviewer calibration. 100
+Transcript annotation: keep buyer context visible for reviewer calibration. 101
+Transcript annotation: keep buyer context visible for reviewer calibration. 102
+Transcript annotation: keep buyer context visible for reviewer calibration. 103
+Transcript annotation: keep buyer context visible for reviewer calibration. 104
+Transcript annotation: keep buyer context visible for reviewer calibration. 105
+Transcript annotation: keep buyer context visible for reviewer calibration. 106
+Transcript annotation: keep buyer context visible for reviewer calibration. 107
+Transcript annotation: keep buyer context visible for reviewer calibration. 108
+Transcript annotation: keep buyer context visible for reviewer calibration. 109
+Transcript annotation: keep buyer context visible for reviewer calibration. 110
+Transcript annotation: keep buyer context visible for reviewer calibration. 111
+Transcript annotation: keep buyer context visible for reviewer calibration. 112
+Transcript annotation: keep buyer context visible for reviewer calibration. 113
+Transcript annotation: keep buyer context visible for reviewer calibration. 114
+Transcript annotation: keep buyer context visible for reviewer calibration. 115
+Transcript annotation: keep buyer context visible for reviewer calibration. 116
+Transcript annotation: keep buyer context visible for reviewer calibration. 117
+Transcript annotation: keep buyer context visible for reviewer calibration. 118
+Transcript annotation: keep buyer context visible for reviewer calibration. 119
+Transcript annotation: keep buyer context visible for reviewer calibration. 120
