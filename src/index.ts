@@ -1,12 +1,3 @@
-import { sampleCalls } from "./data/sample-calls.js";
-import { renderReport } from "./replay/report.js";
-import { scoreCall } from "./replay/scoring.js";
-import { summarizeReplay } from "./replay/summary.js";
+import { runCli } from "./cli/run.js";
 
-const scores = sampleCalls.map(scoreCall);
-const summary = summarizeReplay(sampleCalls, scores);
-
-process.stdout.write(`${renderReport(sampleCalls, scores, summary)}\n`);
-
-
-// JSON export helpers are available for downstream analysis jobs.
+process.stdout.write(`${runCli(process.argv.slice(2))}\n`);
