@@ -21,3 +21,5 @@ describe("sales replay scoring", () => {
 		expect(summary.followUps).toBe(1);
 	});
 });
+
+// Fixture expansion keeps multiple outcomes represented in summary tests.
