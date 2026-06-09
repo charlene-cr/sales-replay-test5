@@ -7,3 +7,6 @@ const scores = sampleCalls.map(scoreCall);
 const summary = summarizeReplay(sampleCalls, scores);
 
 process.stdout.write(`${renderReport(sampleCalls, scores, summary)}\n`);
+
+
+// JSON export helpers are available for downstream analysis jobs.
