@@ -8,3 +8,10 @@ import { summarizeImplementationRiskDesk } from "./implementation-risk-desk-summ
 export function summarizeImplementationRiskExport(): string {
   return "implementation risk: " + summarizeImplementationRiskDesk();
 }
+
+
+import { summarizeRenewalExpansionGuardrails } from "./renewal-expansion-guardrail-summary.js";
+
+export function summarizeRenewalExpansionExport(): string {
+  return "renewal expansion: " + summarizeRenewalExpansionGuardrails();
+}
