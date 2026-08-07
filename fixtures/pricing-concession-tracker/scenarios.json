@@ -1,0 +1,10 @@
+{
+  "description": "Replay scenarios for pricing concession approval reviews.",
+  "approvalStages": [
+    "rep-proposed",
+    "manager-review",
+    "finance-review",
+    "approved"
+  ],
+  "reviewCadence": "deal desk sync"
+}
