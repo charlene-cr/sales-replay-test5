@@ -1,0 +1,10 @@
+{
+  "description": "Manager replay scenarios for missing stakeholder coverage.",
+  "owners": [
+    "Maya",
+    "Jon",
+    "Priya",
+    "Nora"
+  ],
+  "reviewCadence": "weekly"
+}
